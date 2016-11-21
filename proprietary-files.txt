@@ -64,9 +64,10 @@ etc/firmware/tzsuntory.b02
 etc/firmware/tzsuntory.b03
 etc/firmware/tzsuntory.mdt
 etc/flashled_calc_parameters.cfg
+etc/snfc/auto_polling.cfg
+etc/snfc/rf.cfg
 lib/hw/camera.qcom.so:lib/hw/vendor-camera.qcom.so
 lib/hw/gps.default.so
-lib/hw/nfc.msm8960.so
 lib/libMPU3050.so
 lib/libMiscTaAccessor.so
 lib/libQSEEComAPI.so
@@ -128,6 +129,10 @@ lib/libmmmpod.so
 lib/libmmstillomx.so
 lib/libmpl.so
 lib/libnetmgr.so
+lib/libnfc_ndef.so
+lib/libnfc_sony.so
+lib/libnfclock_jni.so
+lib/libnfc_sony_jni.so
 lib/liboemcamera.so
 lib/libpin-cache.so
 lib/libprotobuf-c.so
