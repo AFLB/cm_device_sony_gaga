@@ -146,12 +146,11 @@ lib/libril-qc-qmi-1.so
 lib/libsensors_akm8963.so
 lib/libsys-utils.so
 lib/libta.so
+vendor/camera/APT00YP1.dat
 vendor/camera/KMO08BN0_IMX111.dat
-vendor/camera/LGI02BN0.dat
 vendor/camera/LGI02BN0_IMX132.dat
 vendor/camera/LGI08BN2_DW9714.dat
 vendor/camera/LGI08BN2_IMX111.dat
-vendor/camera/SEM02BN0.dat
 vendor/camera/SEM02BN0_IMX132.dat
 vendor/camera/SEM13BS0.dat
 vendor/camera/SEM13BS0_IMX135.dat
@@ -167,5 +166,6 @@ vendor/camera/SOI13BS2.dat
 vendor/camera/SOI13BS2_DW9735.dat
 vendor/camera/SOI13BS2_IMX135.dat
 vendor/camera/SOI13BS9.dat
+vendor/camera/STW00YP1.dat
 vendor/camera/flash.dat
 vendor/camera/product.dat
